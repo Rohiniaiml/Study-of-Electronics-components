@@ -40,7 +40,8 @@ Electronic components are available in different packages, such as through-hole 
 
 # OBSERVATION TABLE:
  
-<img width="1443" height="121" alt="image" src="https://github.com/user-attachments/assets/4da90fe3-303e-4cb3-9841-c20de0b351b7" />
+![WhatsApp Image 2026-03-27 at 5 40 25 PM](https://github.com/user-attachments/assets/2207147f-eab3-40b3-9d74-61b6640534fb)
+
 
 
 # EXPECTED OUTPUT:
